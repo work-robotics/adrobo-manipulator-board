@@ -102,3 +102,14 @@ Raspberry Piへ接続するためのピンソケットです。
 
 ![](./images/sample1.jpg)
 ![](./images/sample2.jpg)
+
+## 回路図
+
+制御基板の回路図は以下のリンクからダウンロードできます。
+
+[回路図PDF](./images/adrobo-manipulator-board_sch.pdf)
+
+![](./images/sch.jpg)
+
+
+(C) 2020 Work Robotics Co., Ltd.
