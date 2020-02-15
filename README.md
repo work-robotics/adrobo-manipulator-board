@@ -87,7 +87,7 @@ Raspberry Piへ安定して電源を供給するためには、24V3A以上の電
 ### アナログ入力コネクタ
 
 センサ値をアナログ電圧として出力するセンサ信号を入力するためのコネクタです。「AD Input1」「AD Input2」と基板には記載されています。  
-Raspberry PiのSPI0に接続されたADコンバータ（MCP3002）経由で電圧を取得します。  
+Raspberry PiのSPI0に接続されたADコンバータ（[MCP3002](https://www.microchip.com/wwwproducts/en/MCP3002)）経由で電圧を取得します。  
 「AD Input1」と書かれたアナログ入力コネクタ1はADコンバータのCH0に、
 「AD Input2」と書かれたアナログ入力コネクタ2はADコンバータのCH1に
 接続されています。
